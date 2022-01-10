@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.22)
+cmake_minimum_required(VERSION 3.14)
 
 # set the project name
 project(FIVE_POINT_EIGEN VERSION 1.0)
